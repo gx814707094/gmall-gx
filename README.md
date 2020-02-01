@@ -1,1 +1,1 @@
-# gmall-gx
+# gmall-gx 本次修改版本 加了个demo工程
